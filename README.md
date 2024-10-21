@@ -35,27 +35,4 @@ More features, less bugs, better.
 ### Contact Me
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Contact Form</title>
-</head>
-<body>
-  <h1>Contact Me</h1>
-  <form action="https://formspree.io/f/mqakaqwz" method="POST">
-    <label>
-      Your email:
-      <input type="email" name="email">
-    </label>
-    <br>
-    <label>
-      Your message:
-      <textarea name="message"></textarea>
-    </label>
-    <br>
-    <button type="submit">Send</button>
-  </form>
-</body>
-</html>
+glitched, tryna figure out this formspree shit ;-;
