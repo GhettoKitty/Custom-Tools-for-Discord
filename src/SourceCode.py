@@ -1,7 +1,6 @@
 ############################################
 #
 #               DISCORD TOOL UTILITY
-#       By: GHETTOKITTY (don't mind the cringy name)
 #
 # Support:
 # GitHub- https://github.com/GhettoKitty 
@@ -13,6 +12,7 @@ from keyboard import press
 from time import sleep
 from discord import utility
 from utility import webhook
+import json
 import pyautogui, os
 import discord
 
