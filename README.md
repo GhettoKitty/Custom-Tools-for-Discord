@@ -1,4 +1,5 @@
-# Custom-Tools-for-Discord
+# Custom-Tools-for-Discord v1.1.2
+
 Efficient, Powerful Discord tools, 
 Other than that, enjoy :)
 
