@@ -1,5 +1,5 @@
 # Custom-Tools-for-Discord
-Very cool tools for Discord 
+Efficient, Powerful Discord tools, 
 Other than that, enjoy :)
 
 Preview:
@@ -15,7 +15,8 @@ Preview:
 ## Introduction
 
 ### Overview
-Briefly explain what the project is about, its purpose, and how it solves a problem.
+This Discord tool which took me briefly a month to make, basically let's you do stuff that you can't do in your normal discord,
+It's basically a super enhanced version of your normal experience, we designed it for educational purposes + to help discord users enhance their normal experience
 
 ### How to Install
 
