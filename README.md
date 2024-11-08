@@ -1,4 +1,4 @@
-# Custom-Tools-for-Discord v1.1.2
+# ⚡ ZapCord v1.2.6
 
 Efficient, Powerful Discord tools at your fingertips!
 
