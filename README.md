@@ -21,8 +21,7 @@ It's basically a super enhanced version of your normal experience, we designed i
 
 ### How to Install
 
-You download discordtool.exe, right click, run it as admin. Then, put your token in token.txt (make a txt file and put it in the same directory as the tool).
-Note that it may take a bit so you can just wait until it launches. it can take up to 5 mins so don't close it early! (in the case if it takes longer than 5 minutes and your windows isnt bugged keep it running) but if it doesn't pop up in 5 minutes, contact me or make sure your windows isnt bugged.
+You download discordtool.exe, right click, run it as admin. Note that it may take a bit so you can just wait until it launches. it can take up to 5 mins so don't close it early! (in the case if it takes longer than 5 minutes and your windows isnt bugged keep it running) but if it doesn't pop up in 5 minutes, contact me or make sure your windows isnt bugged.
 
 
 ### Features
