@@ -1,4 +1,4 @@
-# ⚡ ZapCord v1.2.6
+# ⚡ Zapcord v1.2.6
 
 Efficient, Powerful Discord tools at your fingertips!
 
