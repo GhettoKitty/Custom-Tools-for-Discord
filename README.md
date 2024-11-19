@@ -24,17 +24,5 @@ It's basically a super enhanced version of your normal experience, we designed i
 You download discordtool.exe, right click, run it as admin. Note that it may take a bit so you can just wait until it launches. it can take up to 5 mins so don't close it early! (in the case if it takes longer than 5 minutes and your windows isnt bugged keep it running) but if it doesn't pop up in 5 minutes, contact me or make sure your windows isnt bugged.
 
 
-### Features
-![Screenshot 2024-10-21 193928](https://github.com/user-attachments/assets/7b06ec63-1acc-4f53-85a8-95a74c5edb5a)
-(v1.0)
-
-This is an image of the menu with descriptions!
-
-
 ### Future Plans
 More features, less bugs, better. Contact me for ideas, bugfixes, etc.
-
-### Contact Me
-
-
-glitched, tryna figure out this formspree shit ;-;
